@@ -19,7 +19,7 @@ This project explores the relationship between **sleeping hours** and **academic
 
 ## 🗂️ Variables Used
 
-Variable  Type 
+|Variable | Type |
 |---|---|
 | `sleep_hours` | Numerical |
 | `academic_performance` | Numerical |
